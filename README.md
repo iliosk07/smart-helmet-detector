@@ -1,5 +1,7 @@
  Smart Helmet Detector
-Tier: 2 Student: Koffi Viglo and Erwin Cheng Course: ITAI 1378 – Introduction to Artificial Intelligence
+Tier: 2 
+Student: Koffi Viglo and Erwin Cheng
+Cheng Course: ITAI 1378
 
  Problem Statement:
 
@@ -73,5 +75,3 @@ Possible issues:
 	•	notebooks: Jupyter notebooks for code and testing.
 	•	data: Small data samples and dataset info.
 	•	docs: Proposal slides and reports.
-
-
